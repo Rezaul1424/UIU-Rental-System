@@ -50,3 +50,15 @@ build/
 
 # System files
 Thumbs.db
+
+# Vite
+.vite/
+.vite-cache/
+
+# pnpm (if used)
+pnpm-debug.log*
+
+# OS specific
+.AppleDouble
+.LSOverride
+
